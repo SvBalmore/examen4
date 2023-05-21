@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066823554275",
+    "project_id": "parcialfluter",
+    "storage_bucket": "parcialfluter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066823554275:android:25c2b53e9d905afc1821d6",
+        "android_client_info": {
+          "package_name": "com.utec.balmore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066823554275-9ctmfd2q65edeui1g1naf3docvlghd52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsWS-o5hJTpeJ8ob5OVcpC8fjK11HiUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066823554275-9ctmfd2q65edeui1g1naf3docvlghd52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
